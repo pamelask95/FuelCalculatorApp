@@ -12,10 +12,9 @@ Tecnologias utilizadas:
 - EditText
 - View
 - ImageView
-- Activity
-- MaterialToolbar
-- Intents
-- onOptionsItemSelected
+- Activities
+- Intent
+- Bundle
 
 <img width="270" height="600" alt="Screenshot_20251031_141917" src="https://github.com/user-attachments/assets/842ec339-56d0-4323-bdd1-17cd347c06fa" />
 <img width="270" height="600" alt="Screenshot_20251031_141956" src="https://github.com/user-attachments/assets/43acf598-92a7-4781-b7fd-2db47c481945" />
