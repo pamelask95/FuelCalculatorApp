@@ -6,15 +6,15 @@ tendo a opção de voltar nas telas anteriores para corrigir algum dado e refaze
 O aplicativo foi totalmente desenvolvido em Kotlin no Android Studio, com layout feito em xml.
 
 Tecnologias utilizadas:
+- Activities
+- Intent
+- Bundle
 - ConstraintLayout
 - TextView
 - Button
 - EditText
-- View
 - ImageView
-- Activities
-- Intent
-- Bundle
+
 
 <img width="270" height="600" alt="Screenshot_20251031_141917" src="https://github.com/user-attachments/assets/842ec339-56d0-4323-bdd1-17cd347c06fa" />
 <img width="270" height="600" alt="Screenshot_20251031_141956" src="https://github.com/user-attachments/assets/43acf598-92a7-4781-b7fd-2db47c481945" />
