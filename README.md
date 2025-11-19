@@ -1,4 +1,4 @@
-Projeto de um aplicativo funcional para cálculo de valor gasto em uma viagem. O usuário informa o preço que irá pagar, aproximadamente, no litro da gasolina,
+Projeto de um aplicativo Android funcional para cálculo de valor gasto em uma viagem. O usuário informa o preço que irá pagar, aproximadamente, no litro da gasolina,
 ou outro combustível, depois informa quantos quilômetros o veículo faz por litro de combustível e depois informa a distância total da viagem.
 Em cada tela o usuário informa um dos valores necessários, e na tela final ele tem o resultado com o valor gasto na viagem, como também a revisão dos dados que ele inseriu,
 tendo a opção de voltar nas telas anteriores para corrigir algum dado e refazer o cálculo.
