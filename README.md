@@ -10,6 +10,7 @@ Tecnologias utilizadas:
 - Intent
 - Bundle
 - ConstraintLayout
+- view
 - TextView
 - Button
 - EditText
